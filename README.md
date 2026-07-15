@@ -18,11 +18,13 @@ solving dsa problem
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/bhardwaj7d03/Dsa-leetcode-problem/tree/master/0001-two-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/bhardwaj7d03/Dsa-leetcode-problem/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/bhardwaj7d03/Dsa-leetcode-problem/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/bhardwaj7d03/Dsa-leetcode-problem/tree/master/0001-two-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/bhardwaj7d03/Dsa-leetcode-problem/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/bhardwaj7d03/Dsa-leetcode-problem/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Prefix Sum
