@@ -19,6 +19,7 @@ solving dsa problem
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bhardwaj7d03/Dsa-leetcode-problem/tree/master/0001-two-sum) |
+| [0238-product-of-array-except-self](https://github.com/bhardwaj7d03/Dsa-leetcode-problem/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/bhardwaj7d03/Dsa-leetcode-problem/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/bhardwaj7d03/Dsa-leetcode-problem/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Hash Table
@@ -30,6 +31,7 @@ solving dsa problem
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/bhardwaj7d03/Dsa-leetcode-problem/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/bhardwaj7d03/Dsa-leetcode-problem/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/bhardwaj7d03/Dsa-leetcode-problem/tree/master/0974-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
