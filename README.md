@@ -10,6 +10,7 @@ solving dsa problem
 ## String
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/bhardwaj7d03/Dsa-leetcode-problem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2864-maximum-odd-binary-number](https://github.com/bhardwaj7d03/Dsa-leetcode-problem/tree/master/2864-maximum-odd-binary-number) |
 ## Greedy
 |  |
@@ -27,6 +28,7 @@ solving dsa problem
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bhardwaj7d03/Dsa-leetcode-problem/tree/master/0001-two-sum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/bhardwaj7d03/Dsa-leetcode-problem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/bhardwaj7d03/Dsa-leetcode-problem/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/bhardwaj7d03/Dsa-leetcode-problem/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Prefix Sum
@@ -51,4 +53,8 @@ solving dsa problem
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/bhardwaj7d03/Dsa-leetcode-problem/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/bhardwaj7d03/Dsa-leetcode-problem/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
