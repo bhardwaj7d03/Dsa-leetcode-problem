@@ -22,6 +22,7 @@ solving dsa problem
 | ------- |
 | [0001-two-sum](https://github.com/bhardwaj7d03/Dsa-leetcode-problem/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/bhardwaj7d03/Dsa-leetcode-problem/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/bhardwaj7d03/Dsa-leetcode-problem/tree/master/0053-maximum-subarray) |
 | [0238-product-of-array-except-self](https://github.com/bhardwaj7d03/Dsa-leetcode-problem/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/bhardwaj7d03/Dsa-leetcode-problem/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/bhardwaj7d03/Dsa-leetcode-problem/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -47,6 +48,7 @@ solving dsa problem
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/bhardwaj7d03/Dsa-leetcode-problem/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/bhardwaj7d03/Dsa-leetcode-problem/tree/master/0053-maximum-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -60,4 +62,8 @@ solving dsa problem
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhardwaj7d03/Dsa-leetcode-problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhardwaj7d03/Dsa-leetcode-problem/tree/master/0438-find-all-anagrams-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/bhardwaj7d03/Dsa-leetcode-problem/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
