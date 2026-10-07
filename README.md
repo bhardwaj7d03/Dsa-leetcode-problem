@@ -66,4 +66,8 @@ solving dsa problem
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/bhardwaj7d03/Dsa-leetcode-problem/tree/master/0053-maximum-subarray) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/bhardwaj7d03/Dsa-leetcode-problem/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
